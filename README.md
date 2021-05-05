@@ -7,3 +7,4 @@ Who's a good dog? Who likes ear scratches? Well, it seems those fancy deep neura
 
 - main.py contains the code in #%% code blocks
 - main_notebook.ipynb contains the code in jupyter notebook
+- app.py is flask web app 
